@@ -4,7 +4,6 @@
 
 HuBMAP - Hacking the Human Vasculature Competition Respository
 
-
 ## Usage 
 
 - 使用以下命令从 kaggle 上下载数据集
