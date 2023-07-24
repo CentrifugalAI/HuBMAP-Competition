@@ -61,6 +61,11 @@ python download.py
   - 模型处理：医学图像语义分割模型。
   - 模型输出：一行，见评估方法描述。
 
+$$
+\sum_{i=1}^k conf \cdot \mathbb{I}(IoU(B_i, B'_i) >= 0.6)
+$$
+
+
 ### 数据集描述
 
 #### `polygons.jsonl` 文件
